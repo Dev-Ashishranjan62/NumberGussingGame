@@ -1,0 +1,45 @@
+body {
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container {
+  background-color: rgb(160, 212, 144);
+  width: 400px;
+  height: 300px;
+  border: 2px solid green;
+  border-radius: 7px;
+  padding: 10px;
+  text-align: center;
+}
+#displayField {
+  background-color: #396231;
+  border: 2px solid green;
+  border-radius: 7px;
+  padding: 10px;
+  display: grid;
+  text-align: center;
+  margin-top: 70px;
+  color: white;
+}
+#check {
+  background-color: blue;
+  border: 2px solid greenyellow;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 30px;
+
+  /* margin-left: 160px; */
+}
+#user {
+  background-color: rgb(49, 63, 44);
+  border: 2px solid greenyellow;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+}
